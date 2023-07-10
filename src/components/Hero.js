@@ -12,7 +12,7 @@ const Hero = () => {
             <div className='w-10 h-[2px] bg-red-400 mr-3'></div>New Trend
           </div>
           <h1 className='text-[70px] leading-[1.1] font-light mb-4'>
-            SUMMER SALE FOR STYLISH <br />
+            AUTUMN SALE FOR STYLISH <br />
             <span className='font-semibold'>WOMEN</span>
           </h1>
           <Link to={'/'} className='self-start uppercase font-semibold
