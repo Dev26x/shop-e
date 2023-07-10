@@ -29,7 +29,7 @@ const ProductDetails = () => {
 
 
   return (
-    <section className='pt-32 pb-12 lg:py-32 h-screen flex items-center'>
+    <section className='pt-32 pb-12 mt-4 mb-8 lg:py-32 h-screen flex items-center'>
       <div className='container mx-auto'>
         <div className='flex flex-col lg:flex-row items-center'>
         <div className='flex flex-1 justify-center items-center mb-8 
@@ -37,7 +37,7 @@ const ProductDetails = () => {
           <img className='max-w-[200px] lg:max-w-sm' src={image} alt=''/>
         </div>
         <div className='flex-1 text-center lg:text-left'>
-          <h1 className='text-[26px] font-medium mb-2 max-w-[6750px] mx-auto
+          <h1 className='text-[26px] font-medium mb-2 max-w-[750px] mx-auto
            lg:mx-0'>
             {title}
           </h1>
