@@ -29,7 +29,7 @@ const ProductDetails = () => {
 
 
   return (
-    <section className='pt-32 pb-12 lg:py-32 flex items-center border'>
+    <section className='pt-32 pb-12 lg:py-32 flex items-center h-[100vh] border'>
       <div className='container mx-auto flex items-center justify-center'>
         <div className='flex flex-col lg:flex-row items-center'>
           <div className='flex flex-1 justify-center items-center mb-8
