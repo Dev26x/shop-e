@@ -24,7 +24,7 @@ useEffect(() => {
      fixed w-full transition-all z-10`}
     >
       <div className='container mx-auto flex items-center justify-between
-       h-full'>
+       h-full lg:pl-10 lg:pr-10'>
         <Link to={'/'}>
           <div>
             <img src={Logo} alt='' className='w-[40px]'/>
